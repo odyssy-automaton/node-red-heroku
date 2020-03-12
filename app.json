@@ -14,6 +14,10 @@
     "NODE_RED_USERNAME": {
       "description": "The username to secure the editor.",
       "value": ""
+    },
+    "NODE_RED_TELEGRAM_TOKEN": {
+      "description": "The telegram token.",
+      "value": ""
     }
   },
   "addons": [ "mongolab" ]
