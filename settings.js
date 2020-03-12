@@ -55,6 +55,8 @@ var settings = module.exports = {
     functionGlobalContext: {
         telegram: {
           'caletaXP_bot': {
+            token: process.env.NODE_RED_TOKEN,
+            polling: 1000,
             parseMode: 'markdown',
           }
         }
