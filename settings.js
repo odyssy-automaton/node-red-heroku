@@ -51,6 +51,14 @@ var settings = module.exports = {
         origin: "*",
         methods: "GET,PUT,POST,DELETE"
     },
+
+    functionGlobalContext: {
+        telegram: {
+          'caletaXP': {
+            parseMode: 'MarkDown',
+          }
+        }
+    },
     
     // Disbled Credential Secret
     credentialSecret: false
