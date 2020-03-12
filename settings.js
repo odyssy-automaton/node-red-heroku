@@ -54,8 +54,8 @@ var settings = module.exports = {
 
     functionGlobalContext: {
         telegram: {
-          'caletaXP': {
-            parseMode: 'MarkDown',
+          'caletaXP_bot': {
+            parseMode: 'markdown',
           }
         }
     },
