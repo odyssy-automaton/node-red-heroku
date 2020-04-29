@@ -8,7 +8,6 @@
         "node-red": "1.0.4",
         "node-red-contrib-chatbot": "^0.18.15",
         "node-red-contrib-viseo-airtable": "^0.1.3",
-        "node-red-node-discord": "^2.2.0",
         "node-red-contrib-webhookrelay": "^0.3.0",
         "redis": "~0.10.1",
         "request": "^2.88.2",
