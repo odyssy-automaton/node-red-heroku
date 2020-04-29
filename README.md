@@ -16,3 +16,4 @@ Add the following user-defined variables.
 * NODE_RED_USERNAME - the username to secure the editor with
 * NODE_RED_PASSWORD - the password to secure the editor with
 * NODE_RED_TELEGRAM_TOKEN - api token
+  
